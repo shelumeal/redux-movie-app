@@ -1,4 +1,5 @@
 import React from "react";
+import "../MovieCard/MovieCard.scss";
 
 function MovieCard(props) {
   const { data } = props;
